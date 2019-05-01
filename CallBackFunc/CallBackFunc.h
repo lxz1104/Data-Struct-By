@@ -1,0 +1,11 @@
+//
+// Created by longx on 2019/3/15.
+//
+
+#ifndef CALLBACKFUNC_CALLBACKFUNC_H
+#define CALLBACKFUNC_CALLBACKFUNC_H
+
+
+
+
+#endif //CALLBACKFUNC_CALLBACKFUNC_H

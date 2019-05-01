@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProject/SeqBinTree/SeqTree.c
+SeqTree.h
+D:/CLionProject/SeqBinTree/SeqTree.h
+stdio.h
+-
+math.h
+-
+
+D:/CLionProject/SeqBinTree/SeqTree.h
+
+D:/CLionProject/SeqBinTree/main.c
+SeqTree.h
+D:/CLionProject/SeqBinTree/SeqTree.h
+stdio.h
+-
+

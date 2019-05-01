@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProject/StaticLinkList/StaticLinkList.c
+StaticLinkList.h
+D:/CLionProject/StaticLinkList/StaticLinkList.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/CLionProject/StaticLinkList/StaticLinkList.h
+
+D:/CLionProject/StaticLinkList/main.c
+StaticLinkList.h
+D:/CLionProject/StaticLinkList/StaticLinkList.h
+stdio.h
+-
+

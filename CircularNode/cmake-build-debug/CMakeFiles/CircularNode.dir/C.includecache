@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProject/CircularNode/CircularLinkedList.c
+CircularLinkedList.h
+D:/CLionProject/CircularNode/CircularLinkedList.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+D:/CLionProject/CircularNode/CircularLinkedList.h
+
+D:/CLionProject/CircularNode/main.c
+CircularLinkedList.h
+D:/CLionProject/CircularNode/CircularLinkedList.h
+stdio.h
+-
+

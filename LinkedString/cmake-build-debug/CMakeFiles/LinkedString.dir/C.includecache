@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProject/LinkedString/LinkedString.h
+StatusLib.h
+D:/CLionProject/LinkedString/StatusLib.h
+
+D:/CLionProject/LinkedString/StatusLib.h
+
+D:/CLionProject/LinkedString/main.c
+StatusLib.h
+D:/CLionProject/LinkedString/StatusLib.h
+LinkedString.h
+D:/CLionProject/LinkedString/LinkedString.h
+stdio.h
+-
+

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProject/Chess/ChessData.c
+ChessData.h
+D:/CLionProject/Chess/ChessData.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/CLionProject/Chess/ChessData.h
+
+D:/CLionProject/Chess/GoBang.c
+GoBang.h
+D:/CLionProject/Chess/GoBang.h
+stdlib.h
+-
+stdio.h
+-
+windows.h
+-
+conio.h
+-
+
+D:/CLionProject/Chess/GoBang.h
+afxres.h
+-
+ChessData.h
+D:/CLionProject/Chess/ChessData.h
+
+D:/CLionProject/Chess/main.c
+GoBang.h
+D:/CLionProject/Chess/GoBang.h
+stdio.h
+-
+stdlib.h
+-
+conio.h
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProject/LinkedBinTree/LinkedBinTree.h
+
+D:/CLionProject/LinkedBinTree/main.c
+LinkedBinTree.h
+D:/CLionProject/LinkedBinTree/LinkedBinTree.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

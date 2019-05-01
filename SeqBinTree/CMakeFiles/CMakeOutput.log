@@ -1,0 +1,164 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags:  
+
+The output was:
+0
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.8.169+g1ccb72aefa
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/2/15 22:48:28。
+节点 1 上的项目“D:\CLionProject\SeqBinTree\CMakeFiles\3.13.2\CompilerIdC\CompilerIdC.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“Debug\”。
+  正在创建目录“Debug\CompilerIdC.tlog\”。
+InitializeBuildStatus:
+  正在创建“Debug\CompilerIdC.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  H:\Visual Studio 2017\2017\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /nologo /W0 /WX- /diagnostics:classic /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TC /analyze- /FC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  H:\Visual Studio 2017\2017\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> D:\CLionProject\SeqBinTree\CMakeFiles\3.13.2\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=H:\Visual Studio 2017\2017\VC\Tools\MSVC\14.15.26726\bin\Hostx86\x86\cl.exe
+FinalizeBuildStatus:
+  正在删除文件“Debug\CompilerIdC.tlog\unsuccessfulbuild”。
+  正在对“Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\CLionProject\SeqBinTree\CMakeFiles\3.13.2\CompilerIdC\CompilerIdC.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.87
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "D:/CLionProject/SeqBinTree/CMakeFiles/3.13.2/CompilerIdC/CompilerIdC.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/CLionProject/SeqBinTree/CMakeFiles/CMakeTmp
+
+Run Build Command:"H:/Visual Studio 2017/2017/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_7b315.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.8.169+g1ccb72aefa
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/2/15 22:48:30。
+节点 1 上的项目“D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\cmTC_7b315.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_7b315.dir\Debug\”。
+  正在创建目录“D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_7b315.dir\Debug\cmTC_7b315.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_7b315.dir\Debug\cmTC_7b315.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  H:\Visual Studio 2017\2017\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7b315.dir\Debug\\" /Fd"cmTC_7b315.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\testCCompiler.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26732.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_7b315.dir\Debug\\" /Fd"cmTC_7b315.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\testCCompiler.c
+  testCCompiler.c
+  
+Link:
+  H:\Visual Studio 2017\2017\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\Debug\cmTC_7b315.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/CLionProject/SeqBinTree/CMakeFiles/CMakeTmp/Debug/cmTC_7b315.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/CLionProject/SeqBinTree/CMakeFiles/CMakeTmp/Debug/cmTC_7b315.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_7b315.dir\Debug\testCCompiler.obj
+  cmTC_7b315.vcxproj -> D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\Debug\cmTC_7b315.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_7b315.dir\Debug\cmTC_7b315.tlog\unsuccessfulbuild”。
+  正在对“cmTC_7b315.dir\Debug\cmTC_7b315.tlog\cmTC_7b315.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\cmTC_7b315.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.16
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/CLionProject/SeqBinTree/CMakeFiles/CMakeTmp
+
+Run Build Command:"H:/Visual Studio 2017/2017/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_66799.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.8.169+g1ccb72aefa
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/2/15 22:48:32。
+节点 1 上的项目“D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\cmTC_66799.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_66799.dir\Debug\”。
+  正在创建目录“D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_66799.dir\Debug\cmTC_66799.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_66799.dir\Debug\cmTC_66799.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  H:\Visual Studio 2017\2017\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_66799.dir\Debug\\" /Fd"cmTC_66799.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26732.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_66799.dir\Debug\\" /Fd"cmTC_66799.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files\CMake\share\cmake-3.13\Modules\CMakeCCompilerABI.c"
+  CMakeCCompilerABI.c
+  
+Link:
+  H:\Visual Studio 2017\2017\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\Debug\cmTC_66799.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/CLionProject/SeqBinTree/CMakeFiles/CMakeTmp/Debug/cmTC_66799.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/CLionProject/SeqBinTree/CMakeFiles/CMakeTmp/Debug/cmTC_66799.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_66799.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_66799.vcxproj -> D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\Debug\cmTC_66799.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_66799.dir\Debug\cmTC_66799.tlog\unsuccessfulbuild”。
+  正在对“cmTC_66799.dir\Debug\cmTC_66799.tlog\cmTC_66799.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\cmTC_66799.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.81
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: D:/CLionProject/SeqBinTree/CMakeFiles/CMakeTmp
+
+Run Build Command:"H:/Visual Studio 2017/2017/MSBuild/15.0/Bin/MSBuild.exe" "cmTC_dbd59.vcxproj" "/p:Configuration=Debug" "/p:Platform=Win32" "/p:VisualStudioVersion=15.0"
+用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.8.169+g1ccb72aefa
+版权所有(C) Microsoft Corporation。保留所有权利。
+
+生成启动时间为 2019/2/15 22:48:33。
+节点 1 上的项目“D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\cmTC_dbd59.vcxproj”(默认目标)。
+PrepareForBuild:
+  正在创建目录“cmTC_dbd59.dir\Debug\”。
+  正在创建目录“D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\Debug\”。
+  正在创建目录“cmTC_dbd59.dir\Debug\cmTC_dbd59.tlog\”。
+InitializeBuildStatus:
+  正在创建“cmTC_dbd59.dir\Debug\cmTC_dbd59.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+ClCompile:
+  H:\Visual Studio 2017\2017\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dbd59.dir\Debug\\" /Fd"cmTC_dbd59.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue D:\CLionProject\SeqBinTree\CMakeFiles\feature_tests.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.15.26732.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /diagnostics:classic /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dbd59.dir\Debug\\" /Fd"cmTC_dbd59.dir\Debug\vc141.pdb" /Gd /TC /analyze- /errorReport:queue D:\CLionProject\SeqBinTree\CMakeFiles\feature_tests.c
+  feature_tests.c
+  
+Link:
+  H:\Visual Studio 2017\2017\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:QUEUE /OUT:"D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\Debug\cmTC_dbd59.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/CLionProject/SeqBinTree/CMakeFiles/CMakeTmp/Debug/cmTC_dbd59.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/CLionProject/SeqBinTree/CMakeFiles/CMakeTmp/Debug/cmTC_dbd59.lib" /MACHINE:X86 /SAFESEH  /machine:X86 cmTC_dbd59.dir\Debug\feature_tests.obj
+  cmTC_dbd59.vcxproj -> D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\Debug\cmTC_dbd59.exe
+FinalizeBuildStatus:
+  正在删除文件“cmTC_dbd59.dir\Debug\cmTC_dbd59.tlog\unsuccessfulbuild”。
+  正在对“cmTC_dbd59.dir\Debug\cmTC_dbd59.tlog\cmTC_dbd59.lastbuildstate”执行 Touch 任务。
+已完成生成项目“D:\CLionProject\SeqBinTree\CMakeFiles\CMakeTmp\cmTC_dbd59.vcxproj”(默认目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:00.80
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros

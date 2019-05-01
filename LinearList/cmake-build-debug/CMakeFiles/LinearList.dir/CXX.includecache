@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProject/LinearList/LinearList.h
+iostream
+-
+
+D:/CLionProject/LinearList/LinkedList.h
+LinearList.h
+D:/CLionProject/LinearList/LinearList.h
+Node.h
+D:/CLionProject/LinearList/Node.h
+
+D:/CLionProject/LinearList/Node.h
+
+D:/CLionProject/LinearList/SeqList.h
+LinearList.h
+D:/CLionProject/LinearList/LinearList.h
+cassert
+-
+
+D:/CLionProject/LinearList/main.cpp
+SeqList.h
+D:/CLionProject/LinearList/SeqList.h
+LinkedList.h
+D:/CLionProject/LinearList/LinkedList.h
+

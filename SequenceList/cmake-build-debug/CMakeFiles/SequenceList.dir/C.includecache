@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/CLionProject/SequenceList/SequenceList.h
+
+D:/CLionProject/SequenceList/main.c
+SequenceList.h
+D:/CLionProject/SequenceList/SequenceList.h
+stdio.h
+-
+
